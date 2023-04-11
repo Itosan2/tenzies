@@ -18,7 +18,7 @@ body{
 .main--container{
   width: 360px;
   /* height: 380px; */
-  margin: 70px auto;
+  margin: 50px auto;
   border: 30px solid #0B2434;
   border-width: 30px 20px 30px 20px;
   overflow: hidden;
