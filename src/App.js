@@ -3,7 +3,7 @@ import './App.css';
 import Die from './components/Die';
 import {nanoid} from "nanoid"
 import Confetti from 'react-confetti';
-import crown from './crown.png'
+import crown from '../public/crown.png'
 
 
 export default function App() {
