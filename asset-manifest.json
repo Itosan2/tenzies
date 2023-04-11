@@ -1,13 +1,13 @@
 {
-  "main.css": "/itosan2/tenzies/static/css/main.0db689aa.chunk.css",
-  "main.js": "/itosan2/tenzies/static/js/main.24856f55.chunk.js",
-  "main.js.map": "/itosan2/tenzies/static/js/main.24856f55.chunk.js.map",
-  "static/js/1.d2968098.chunk.js": "/itosan2/tenzies/static/js/1.d2968098.chunk.js",
-  "static/js/1.d2968098.chunk.js.map": "/itosan2/tenzies/static/js/1.d2968098.chunk.js.map",
-  "runtime~main.js": "/itosan2/tenzies/static/js/runtime~main.652a7d48.js",
-  "runtime~main.js.map": "/itosan2/tenzies/static/js/runtime~main.652a7d48.js.map",
-  "static/css/main.0db689aa.chunk.css.map": "/itosan2/tenzies/static/css/main.0db689aa.chunk.css.map",
-  "index.html": "/itosan2/tenzies/index.html",
-  "precache-manifest.b170db1c8b89ab5bf8da8f387f1f5870.js": "/itosan2/tenzies/precache-manifest.b170db1c8b89ab5bf8da8f387f1f5870.js",
-  "service-worker.js": "/itosan2/tenzies/service-worker.js"
+  "main.css": "/tenzies/static/css/main.0db689aa.chunk.css",
+  "main.js": "/tenzies/static/js/main.24856f55.chunk.js",
+  "main.js.map": "/tenzies/static/js/main.24856f55.chunk.js.map",
+  "static/js/1.d2968098.chunk.js": "/tenzies/static/js/1.d2968098.chunk.js",
+  "static/js/1.d2968098.chunk.js.map": "/tenzies/static/js/1.d2968098.chunk.js.map",
+  "runtime~main.js": "/tenzies/static/js/runtime~main.9a1b99c3.js",
+  "runtime~main.js.map": "/tenzies/static/js/runtime~main.9a1b99c3.js.map",
+  "static/css/main.0db689aa.chunk.css.map": "/tenzies/static/css/main.0db689aa.chunk.css.map",
+  "index.html": "/tenzies/index.html",
+  "precache-manifest.5de4f6eaaee5c0a1d84115c02f28984c.js": "/tenzies/precache-manifest.5de4f6eaaee5c0a1d84115c02f28984c.js",
+  "service-worker.js": "/tenzies/service-worker.js"
 }

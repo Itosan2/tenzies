@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/itosan2/tenzies/precache-manifest.b170db1c8b89ab5bf8da8f387f1f5870.js"
+  "/tenzies/precache-manifest.5de4f6eaaee5c0a1d84115c02f28984c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/itosan2/tenzies/index.html", {
+workbox.routing.registerNavigationRoute("/tenzies/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
